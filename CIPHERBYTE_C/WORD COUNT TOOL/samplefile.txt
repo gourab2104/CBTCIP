@@ -1,0 +1,3 @@
+Hello!! This is Gourab Kundu 
+I'm much excited to do internship from CipherByte Technologies
+This is first task(WORD COUNT) under C programming language
